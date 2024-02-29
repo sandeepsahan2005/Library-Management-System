@@ -122,3 +122,20 @@ ul li a:hover{
     bottom: 0;
     z-index: -1;
 }
+
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: relative;
+}
+
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 80px;
+    text-align: left;
+    padding-left: 20px;
+    margin-top: 15%;
+    letter-spacing: 2px;
+}
