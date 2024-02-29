@@ -193,7 +193,7 @@ ul li a:hover{
     background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
     top: 130px;
-    left: 1000px;
+    left: 500px;
     transform: translate(0%,-5%);
     border-radius: 10px;
     padding: 25px;
